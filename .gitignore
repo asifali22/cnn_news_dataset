@@ -1,3 +1,4 @@
 GoogleNews-vectors-negative300.bin
-my_model_20.h5
-my_model_1_20.h5
+my_model*
+rnn_model*
+rnn_model_try_no_3_not_sure.ipynb
